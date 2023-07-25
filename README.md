@@ -2,6 +2,7 @@
 
 You are going to be answering some questions by writing queries against the  [cars database](https://github.com/echoplatoonew/cars_database).
 
+Please include your queries in `queries.sql`.
 
 - Get the count of users per city.
 - Get the count of users per city, excluding Chicago.
