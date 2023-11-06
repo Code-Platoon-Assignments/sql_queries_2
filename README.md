@@ -1,6 +1,6 @@
 # SQL Queries 2: Group by and Inner Joins
 
-You are going to be answering some questions by writing queries against the  [cars database](https://github.com/echoplatoonew/cars_database).
+You are going to be answering some questions by writing queries against the  [cars database](https://github.com/Code-Platoon-Assignments/cars_database).
 
 Please include your queries in `queries.sql`.
 
